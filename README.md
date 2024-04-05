@@ -1,4 +1,4 @@
-PROTEIN ENGINEERING
+**PROTEIN ENGINEERING**
 (Protein Sequence Generation)
 Documentation: https://docs.google.com/document/d/1SyCXNy2liLkg2wY4azH4Mjjm-Jqsu9eHyJsQ_EPMjm8/edit?usp=sharing
 (Photos availaible in Documentation)
